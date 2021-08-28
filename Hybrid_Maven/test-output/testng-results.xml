@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-27T21:12:09 IST" name="Suite" finished-at="2021-08-27T21:13:20 IST" duration-ms="70577">
+    <groups>
+    </groups>
+    <test started-at="2021-08-27T21:12:09 IST" name="Test" finished-at="2021-08-27T21:13:20 IST" duration-ms="70577">
+      <class name="com.testscenarios.Switchtab_stqa">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.testscenarios.Switchtab_stqa@611889f4]" started-at="2021-08-27T21:12:20 IST" name="beforeTest" finished-at="2021-08-27T21:12:30 IST" duration-ms="9357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:0, instance:com.testscenarios.Switchtab_stqa@611889f4]" started-at="2021-08-27T21:12:30 IST" name="f" finished-at="2021-08-27T21:12:51 IST" duration-ms="20967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.testscenarios.Switchtab_stqa@611889f4]" started-at="2021-08-27T21:13:10 IST" name="afterTest" finished-at="2021-08-27T21:13:20 IST" duration-ms="10003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.testscenarios.Switchtab_stqa -->
+      <class name="com.testscenarios.Popup_stqa">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.testscenarios.Popup_stqa@614ca7df]" started-at="2021-08-27T21:12:09 IST" name="beforeTest" finished-at="2021-08-27T21:12:20 IST" duration-ms="11106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:0, instance:com.testscenarios.Popup_stqa@614ca7df]" started-at="2021-08-27T21:12:51 IST" name="f" finished-at="2021-08-27T21:12:59 IST" duration-ms="8295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.testscenarios.Popup_stqa@614ca7df]" started-at="2021-08-27T21:12:59 IST" name="afterTest" finished-at="2021-08-27T21:13:10 IST" duration-ms="10757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.testscenarios.Popup_stqa -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

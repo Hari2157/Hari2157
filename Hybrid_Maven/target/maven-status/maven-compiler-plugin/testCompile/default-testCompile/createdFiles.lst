@@ -1,0 +1,6 @@
+com\testscenarios\Popup_stqa.class
+com\testscenarios\Switchtab_stqa.class
+com\testscenarios\Alert_js_stqatools.class
+com\utilities\Staticvariables.class
+com\objectrepository\Locators.class
+com\utilities\CommonFunctions.class
